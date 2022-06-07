@@ -1,2 +1,2 @@
 # AKUINO.github.io
-AKUINO.net documentation
+AKUINO.net project documentation
